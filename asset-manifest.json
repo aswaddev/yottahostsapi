@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/yottahostsapi/static/js/main.26728a57.chunk.js",
+    "main.js.map": "/yottahostsapi/static/js/main.26728a57.chunk.js.map",
+    "runtime-main.js": "/yottahostsapi/static/js/runtime-main.75c199e4.js",
+    "runtime-main.js.map": "/yottahostsapi/static/js/runtime-main.75c199e4.js.map",
+    "static/js/2.6b171773.chunk.js": "/yottahostsapi/static/js/2.6b171773.chunk.js",
+    "static/js/2.6b171773.chunk.js.map": "/yottahostsapi/static/js/2.6b171773.chunk.js.map",
+    "index.html": "/yottahostsapi/index.html",
+    "precache-manifest.52d8dbc111355fab2e9f1f1d4604d614.js": "/yottahostsapi/precache-manifest.52d8dbc111355fab2e9f1f1d4604d614.js",
+    "service-worker.js": "/yottahostsapi/service-worker.js",
+    "static/js/2.6b171773.chunk.js.LICENSE.txt": "/yottahostsapi/static/js/2.6b171773.chunk.js.LICENSE.txt",
+    "static/media/loader.svg": "/yottahostsapi/static/media/loader.1336a69b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75c199e4.js",
+    "static/js/2.6b171773.chunk.js",
+    "static/js/main.26728a57.chunk.js"
+  ]
+}
