@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/yottahostsapi/static/js/main.c7c7d565.chunk.js",
-    "main.js.map": "/yottahostsapi/static/js/main.c7c7d565.chunk.js.map",
+    "main.js": "/yottahostsapi/static/js/main.712e5538.chunk.js",
+    "main.js.map": "/yottahostsapi/static/js/main.712e5538.chunk.js.map",
     "runtime-main.js": "/yottahostsapi/static/js/runtime-main.027fc70b.js",
     "runtime-main.js.map": "/yottahostsapi/static/js/runtime-main.027fc70b.js.map",
     "static/js/2.bea76930.chunk.js": "/yottahostsapi/static/js/2.bea76930.chunk.js",
     "static/js/2.bea76930.chunk.js.map": "/yottahostsapi/static/js/2.bea76930.chunk.js.map",
     "index.html": "/yottahostsapi/index.html",
-    "precache-manifest.66da8dca7e38c93f229a78654f0317c4.js": "/yottahostsapi/precache-manifest.66da8dca7e38c93f229a78654f0317c4.js",
+    "precache-manifest.4039cc605ed437ba927959b0efde9f7b.js": "/yottahostsapi/precache-manifest.4039cc605ed437ba927959b0efde9f7b.js",
     "service-worker.js": "/yottahostsapi/service-worker.js",
     "static/js/2.bea76930.chunk.js.LICENSE.txt": "/yottahostsapi/static/js/2.bea76930.chunk.js.LICENSE.txt",
     "static/media/loader.svg": "/yottahostsapi/static/media/loader.1336a69b.svg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.027fc70b.js",
     "static/js/2.bea76930.chunk.js",
-    "static/js/main.c7c7d565.chunk.js"
+    "static/js/main.712e5538.chunk.js"
   ]
 }
