@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yottahostsapi/precache-manifest.52d8dbc111355fab2e9f1f1d4604d614.js"
+  "/yottahostsapi/precache-manifest.66da8dca7e38c93f229a78654f0317c4.js"
 );
 
 self.addEventListener('message', (event) => {
